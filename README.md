@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm JAMES ANTONY</h1>
-<h3 align="center">A passionate developer from India , kerala</h3>
 
-- 🔭 I’m currently working on **project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
